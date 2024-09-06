@@ -2,7 +2,7 @@
 
 ## Description
 
-**StudyBru** Study Buddy is a powerful cross-platform application designed to assist students in enhancing their study experience through the use of Generative AI. By allowing students to upload their study materials, Study Buddy generates concise summaries, practice questions, flashcards, quizzes, and key terms along with their definitions just by simply uploading your notes. The app supports a wide range of document formats, including PDF, PPTX, DOCX, and TXT, making it versatile and accessible for students across different subjects.
+**StudyBru** is a powerful cross-platform application designed to assist students in enhancing their study experience through the use of Generative AI. By allowing students to upload their study materials, Study Buddy generates concise summaries, practice questions, flashcards, quizzes, and key terms along with their definitions just by simply uploading your notes. The app supports a wide range of document formats, including PDF, PPTX, DOCX, and TXT, making it versatile and accessible for students across different subjects.
 
 ## Screenshots
 
